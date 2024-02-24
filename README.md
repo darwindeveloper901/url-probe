@@ -8,7 +8,6 @@ This Python script provides a tool for checking HTTP status codes of URLs listed
 - Python 3.x
 - Requests library (install using `pip install requests`)
 
-### Usage
 ```bash
 python status.py -w <wordlist_file_path> -u <target_url>
 ```
